@@ -1,3 +1,3 @@
 # raxar
 
-A Flutter advanced notetaking app.
+An advanced notetaking Flutter app.
